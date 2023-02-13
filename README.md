@@ -1,4 +1,4 @@
-# rickroll
+# Rickroll
 Code to play video in python.
 Use the x.dat file path in the code.
 Dependencies : 
